@@ -1,4 +1,4 @@
-package me.gogosing.properties;
+package me.gogosing.autoconfigure;
 
 /**
  * Created by JinBum Jeong on 2020/03/18.
